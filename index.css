@@ -1,0 +1,26 @@
+.parent-1 {
+    background-color: #1F2937;
+}
+
+.parent-3 {
+    background-color: #E5E7EB;
+}
+
+.header-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    background-color: #1F2937;
+}
+
+.info-web {
+    background-color: #1F2937;
+}
+
+.info-img {
+    background-color: #1F2937;
+}
+
+.images-and-info {
+    display: flex;
+}
